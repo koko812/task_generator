@@ -1,0 +1,28 @@
+## Example question-answer pair: 1
+### Input
+You are given a question on high school macroeconomics. You are also given 4 answer options (associated with 'A', 'B', 'C',
+'D'), out of which only one is correct. You need to answer the question by selecting the correct option. You should only
+answer with the choice letter, not the whole answer.
+Input: Allocative efficiency (A)means that no inferior products will be produced. (B)implies that the economy's output is
+distributed evenly. (C)means that those who work hardest will get more. (D)implies that resources are used to produce
+the goods and services society desires in just the right amounts.
+Output:
+### Expected output
+D
+### Plausible descriptions
+Description 1: Your job is to analyze the provided question about economics. Use your understanding of economic
+principles to guide your choice.
+Description 2: Utilize your economic understanding to determine which choice is right. The correct answer will be the one
+that best aligns with economic principles.
+
+## Example question-answer pair: 2
+### Input
+In this task, you are given a country name and you need to return the capital city of the given country.
+Input: Senegal
+Output:
+### Expected output
+Dakar
+### Plausible descriptions
+Description 1: Given the name of a country, your job is to provide its capital city.
+Description 2: For each country listed, determine and state its capital city. This requires familiarity with global locations
+and capitals.

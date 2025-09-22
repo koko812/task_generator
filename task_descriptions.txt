@@ -1,0 +1,39 @@
+Description 1: You need to solve practical math problems involving addition, subtraction, and multiplication scenarios.
+
+Description 2: This task requires you to apply your arithmetic skills to determine totals based on given situations.
+
+Description 3: You are asked to analyze everyday scenarios and calculate the required amounts using basic math operations.
+
+Description 4: In this task, you will engage with word problems that involve financial calculations and quantities.
+
+Description 5: Your job is to interpret different situations and use your math knowledge to find out how much is needed or earned.
+
+Description 6: This task focuses on understanding and solving problems that involve comparing quantities and calculating totals.
+
+Description 7: You'll need to break down practical problems into mathematical operations to find solutions related to money and amounts.
+
+Description 8: The task involves working through story-like scenarios to arrive at numerical answers through calculations.
+
+Description 9: Here, you will use your skills in math to solve problems about money management and savings.
+
+Description 10: This task challenges you to think critically about real-life math problems and derive accurate numerical answers.
+
+Description 11: You are presented with various situations that require calculating totals or differences using basic mathematics.
+
+Description 12: Your goal is to analyze the information provided in each question and perform the necessary calculations to obtain solutions.
+
+Description 13: This task involves using your arithmetic abilities to solve problems related to sales and earnings.
+
+Description 14: You will interpret word problems that require you to perform calculations involving money and quantities.
+
+Description 15: This exercise tests your understanding of math concepts as you apply them to practical scenarios involving calculations.
+
+Description 16: You are tasked with determining financial outcomes based on the information given in each question context.
+
+Description 17: This activity focuses on solving everyday math problems that involve earnings, expenses, and savings.
+
+Description 18: Your challenge is to decipher each question and execute the correct calculations to arrive at the answer.
+
+Description 19: You need to demonstrate your ability to solve quantitative problems that reflect real-world applications of math.
+
+Description 20: This task requires you to critically assess different situations and apply your arithmetic skills to achieve the correct results.

@@ -1,0 +1,29 @@
+
+Here are some examples of the tasks you will be asked to solve.
+
+## Example 1
+Sentence: John moved the couch from the garage to the backyard to create space. The _ is small.
+
+Option 1: garage
+
+Option 2: backyard
+
+Answer: 1
+
+## Example 2
+Sentence: The doctor diagnosed Justin with bipolar and Robert with anxiety. _ had terrible nerves recently.
+
+Option 1: Justin
+
+Option 2: Robert
+
+Answer: 2
+
+## Example 3
+Sentence: Dennis drew up a business proposal to present to Logan because _ wants his investment.
+
+Option 1: Dennis
+
+Option 2: Logan
+
+Answer: 1

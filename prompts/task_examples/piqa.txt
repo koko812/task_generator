@@ -1,0 +1,30 @@
+
+Here are some examples of the tasks you will be asked to solve.
+
+## Example 1
+Question: When boiling butter, when it's ready, you can
+
+0: Pour it onto a plate
+
+1: Pour it into a jar
+
+Answer: 1
+
+## Example 2
+Question: To permanently attach metal legs to a chair, you can
+
+0: Weld the metal together to get it to stay firmly in place
+
+1: Nail the metal together to get it to stay firmly in place
+
+Answer: 0
+
+## Example 3
+Question: how do you indent something?
+
+0: leave a space before starting the writing
+
+1: press the spacebar
+
+Answer: 0
+

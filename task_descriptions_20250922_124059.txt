@@ -1,0 +1,39 @@
+Description 1: Your task is to determine the truthfulness of a statement based on a provided passage. This requires comprehension of the information given.
+
+Description 2: Analyze the passage and assess whether the question posed is true or false based on the details provided in the text.
+
+Description 3: You need to evaluate a claim by referring to a specific passage to see if it aligns with the information presented.
+
+Description 4: Read the provided text carefully, then decide if the statement related to it is accurate or not.
+
+Description 5: The objective is to use information from a passage to confirm or deny a related assertion.
+
+Description 6: Interpret the text and respond to whether the statement made in the question is supported by the information in the passage.
+
+Description 7: Your role is to extract relevant details from the passage and judge the validity of the claim in the question.
+
+Description 8: Examine the content of the passage to validate whether the question's statement holds true based on the provided information.
+
+Description 9: Evaluate a statement's accuracy by referencing the facts and details in the accompanying text.
+
+Description 10: The task requires you to synthesize information from a passage and determine if the given statement is true or false.
+
+Description 11: Your focus should be on understanding the passage well enough to assess the correctness of the claim made in the question.
+
+Description 12: Assess the relationship between the passage and the question to conclude if the statement is factually correct.
+
+Description 13: You will read a passage and then evaluate a question to see if the information supports the truth of the statement.
+
+Description 14: The challenge is to discern the truthfulness of a statement by relating it back to the key points in the passage.
+
+Description 15: Your task involves critical reading and comprehension skills to confirm or reject a statement based on a given text.
+
+Description 16: Analyze the passage's content and make a judgment regarding the veracity of the question posed.
+
+Description 17: You will need to assess whether the assertion in the question is backed up by the details from the passage.
+
+Description 18: Use comprehension skills to navigate through the passage and determine the truth of the statement in the question.
+
+Description 19: This task tests your ability to connect information from a passage with a claim and assess its validity.
+
+Description 20: Engage with the text to understand its main ideas and evaluate if the question's statement accurately reflects that information.

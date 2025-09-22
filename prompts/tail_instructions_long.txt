@@ -1,0 +1,17 @@
+Please use the information in the question-answer pairs and example description and come up with several descriptions
+that explain the task. Each description should be written in plain text, with the following format.
+Description 1: DESCRIPTION_1
+Description 2: DESCRIPTION_2
+Description 3: DESCRIPTION_3
+You should also be creative and vary the structure of the descriptions while keeping them all roughly the same length.
+You should ignore the specific question-answer pairs and focus on the high-level concept and topic of the task in general.
+
+Each description should be long and detailed, about 300–400 words, so that they are substantially longer than short summaries.
+
+**DO NOT** describe that there are multiple choice options or the format of the answer.
+**DO NOT** include the answer format, e.g., 'choose the correct option', 'answer with only one word', etc.
+**DO NOT** describe how to answer the question, but rather what the task is about and the skills and knowledge
+required.
+
+Response with 3 descriptions. Use simple words and please be clear and detailed in your descriptions.
+

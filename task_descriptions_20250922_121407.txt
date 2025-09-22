@@ -1,0 +1,9 @@
+Description 1: The task involves solving word problems that require basic arithmetic skills. You will need to understand the context of each problem and perform calculations to find the correct solutions.
+
+Description 2: This task focuses on applying mathematical reasoning to everyday scenarios. You will analyze situations involving sales, earnings, and savings, using addition, subtraction, multiplication, or division to arrive at the answers.
+
+Description 3: You are tasked with interpreting mathematical questions presented in real-life contexts. This requires not only numerical skills but also the ability to break down the problems into manageable steps to find the total or remaining amounts.
+
+Description 4: The objective is to work through practical math problems that simulate financial situations. You will calculate totals, earnings, or remaining funds by applying your knowledge of basic math operations in a coherent way.
+
+Description 5: In this task, you will engage with problems that illustrate common financial activities, such as selling items, earning wages, or saving money. Your role is to utilize your math skills to determine the correct numerical outcomes based on the given information.

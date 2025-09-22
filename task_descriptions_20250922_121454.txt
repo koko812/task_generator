@@ -1,0 +1,39 @@
+Description 1: The task involves solving mathematical word problems that require basic arithmetic operations to find answers related to everyday scenarios.
+
+Description 2: You will analyze a series of problems that involve calculations based on given information, such as sales, earnings, or savings, to determine totals or remaining amounts.
+
+Description 3: The objective is to interpret word problems that involve real-life situations, applying your understanding of math to arrive at a solution.
+
+Description 4: This task requires you to break down numerical scenarios into manageable parts and perform calculations to solve for unknown values.
+
+Description 5: You will engage with mathematics by reading problems that relate to financial situations, like earnings or expenses, and compute the necessary figures.
+
+Description 6: The task centers on understanding and solving problems that involve addition, subtraction, multiplication, or division in practical contexts.
+
+Description 7: You are asked to work through problems that present information about sales or money, requiring you to calculate totals or deficits.
+
+Description 8: This task challenges you to think critically about numerical information presented in a narrative form and apply mathematical reasoning to find solutions.
+
+Description 9: You will need to use your arithmetic skills to solve problems that depict everyday challenges, such as budgeting or tallying sales figures.
+
+Description 10: The focus is on extracting numerical data from word problems, allowing you to practice your calculation skills through real-world scenarios.
+
+Description 11: You will interpret financial situations described in text, using basic math to figure out how much is earned, saved, or needed.
+
+Description 12: The task highlights the application of math in daily life, where you are required to find answers using simple calculations based on given details.
+
+Description 13: You will analyze problems involving sales, earnings, and savings, requiring you to use addition and subtraction to arrive at final amounts.
+
+Description 14: The objective is to translate worded mathematical problems into numerical expressions, solving for key figures in various scenarios.
+
+Description 15: This task involves determining solutions to questions that revolve around financial transactions, necessitating an understanding of arithmetic.
+
+Description 16: You are tasked with solving practical math problems that require you to compute totals based on provided information about sales or income.
+
+Description 17: The focus is on solving word problems that require you to use basic math to understand how much is earned or needed in various situations.
+
+Description 18: You will engage with practical examples of arithmetic applied to real-life questions, reinforcing your skills in problem-solving through calculations.
+
+Description 19: The task involves reading and interpreting numerical problems, requiring you to apply your knowledge of basic math to uncover answers.
+
+Description 20: You will face challenging scenarios where you must use your math skills to calculate amounts related to sales, earnings, or expenses in everyday life.
