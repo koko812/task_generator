@@ -61,7 +61,7 @@ def main():
     with open(outpath, "w", encoding="utf-8") as f:
         f.write(text)
 
-    print(f"\n>>> 保存しました: {outpath}")
+    #print(f"\n>>> 保存しました: {outpath}")
 
 if __name__ == "__main__":
     main()
