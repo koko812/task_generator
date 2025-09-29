@@ -25,7 +25,7 @@ def build_prompt(in_context: str, qa_pairs: str, tail: str) -> str:
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--in-context", default="prompts/in_context.txt")
-    ap.add_argument("--qa-pairs", default="prompts/task_examples/boolq.txt")
+    ap.add_argument("--qa-pairs", default="prompts/task_examples/aime2023_1.txt")
     ap.add_argument("--tail", default="prompts/tail_instructions.txt",
                     help="末尾の制約・書式などの共通指示を入れるファイル")
     ap.add_argument("--model", default="gpt-4o-mini")

@@ -7,6 +7,8 @@ You should also be creative and vary the structure and the length of the descrip
 cover various writing styles. You should ignore the specific question-answer pairs and focus on the high-level concept
 and topic of the task in general.
 
+Each description should be long and detailed, about 50 words, so that they are substantially longer than short summaries.
+
 **DO NOT** describe that there are multiple choice options or the format of the answer.
 **DO NOT** include the answer format, e.g., 'choose the correct option', 'answer with only one word', etc.
 **DO NOT** describe how to answer the question, but rather what the task is about and the skills and knowledge
